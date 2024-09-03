@@ -1,0 +1,11 @@
+D:\SandBox\PlatformService\PlatformService\out\PlatformService.exe
+D:\SandBox\PlatformService\PlatformService\out\appsettings.Development.json
+D:\SandBox\PlatformService\PlatformService\out\appsettings.json
+D:\SandBox\PlatformService\PlatformService\out\PlatformService.dll
+D:\SandBox\PlatformService\PlatformService\out\PlatformService.runtimeconfig.json
+D:\SandBox\PlatformService\PlatformService\out\PlatformService.pdb
+D:\SandBox\PlatformService\PlatformService\out\AutoMapper.dll
+D:\SandBox\PlatformService\PlatformService\out\Microsoft.EntityFrameworkCore.dll
+D:\SandBox\PlatformService\PlatformService\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SandBox\PlatformService\PlatformService\out\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\SandBox\PlatformService\PlatformService\out\PlatformService.deps.json

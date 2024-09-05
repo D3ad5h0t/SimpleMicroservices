@@ -102,3 +102,4 @@ D:\SandBox\PlatformService\PlatformService\bin\Debug\net8.0\out\appsettings.Deve
 D:\SandBox\PlatformService\PlatformService\bin\Debug\net8.0\out\appsettings.json
 D:\SandBox\PlatformService\PlatformService\bin\Debug\net8.0\out\PlatformService.deps.json
 D:\SandBox\PlatformService\PlatformService\bin\Debug\net8.0\out\PlatformService.runtimeconfig.json
+D:\SandBox\PlatformService\PlatformService\obj\Debug\net8.0\PlatformService.sourcelink.json

@@ -11,10 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+Console.WriteLine($"--> CommandService Endpoint {builder.Configuration["CommandService"]}");
+
 
 var app = builder.Build();
 
-app.UseHttpsRedirection();
+// app.UseHttpsRedirection();
 app.UseRouting();
 app.UseAuthentication();
 app.UseEndpoints(endpoints =>

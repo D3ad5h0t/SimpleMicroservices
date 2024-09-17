@@ -6,15 +6,15 @@ spec:
   replicas: 1
   selector:
     matchLabels:
-      app: commandservice
+      app: commandsservice
   template:
     metadata:
       labels:
-        app: commandservice
+        app: commandsservice
     spec:
       containers:
-        - name: commandservice
-          image: tzimiske/commandservice:latest
+        - name: commandsservice
+          image: tzimiske/commandsservice:latest
 ---
 apiVersion: v1
 kind: Service
@@ -23,7 +23,7 @@ metadata:
 spec:
   type: ClusterIP
   selector:
-    app: commandservice
+    app: commandsservice
   ports:
   - name: http
     protocol: TCP
